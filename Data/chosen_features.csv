@@ -1,0 +1,51 @@
+,sign,factor group
+Real GDP growth,-1,Real GDP growth
+Nominal GDP growth,-1,Nominal GDP growth
+Unemployment rate,1,Unemployment rate
+Unemployment rate change,1,Unemployment rate change
+3-month Treasury rate change,-1,3-month Treasury rate change
+BBB corporate yield,1,BBB corporate yield
+BBB corporate yield change,1,BBB corporate yield change
+Dow Jones Total Stock Market Index change,-1,Dow Jones Total Stock Market Index change
+Commercial Real Estate Price Index change,-1,Commercial Real Estate Price Index change
+Market Volatility Index,1,Market Volatility Index
+Market Volatility Index change,1,Market Volatility Index change
+Real GDP growth_lag1,-1,Real GDP growth
+Real GDP growth_lag2,-1,Real GDP growth
+Real GDP growth_lag3,-1,Real GDP growth
+Real GDP growth_lag4,-1,Real GDP growth
+Nominal GDP growth_lag1,-1,Nominal GDP growth
+Nominal GDP growth_lag2,-1,Nominal GDP growth
+Nominal GDP growth_lag3,-1,Nominal GDP growth
+Nominal GDP growth_lag4,-1,Nominal GDP growth
+Unemployment rate change_lag1,1,Unemployment rate change
+Unemployment rate change_lag2,1,Unemployment rate change
+3-month Treasury rate change_lag1,-1,3-month Treasury rate change
+3-month Treasury rate change_lag2,-1,3-month Treasury rate change
+3-month Treasury rate change_lag3,-1,3-month Treasury rate change
+3-month Treasury rate change_lag4,-1,3-month Treasury rate change
+3-month Treasury rate change_lag5,-1,3-month Treasury rate change
+3-month Treasury rate change_lag6,-1,3-month Treasury rate change
+BBB corporate yield_lag1,1,BBB corporate yield
+BBB corporate yield_lag2,1,BBB corporate yield
+BBB corporate yield_lag3,1,BBB corporate yield
+BBB corporate yield_lag4,1,BBB corporate yield
+BBB corporate yield change_lag1,1,BBB corporate yield change
+BBB corporate yield change_lag2,1,BBB corporate yield change
+BBB corporate yield change_lag3,1,BBB corporate yield change
+BBB corporate yield change_lag4,1,BBB corporate yield change
+Dow Jones Total Stock Market Index change_lag1,-1,Dow Jones Total Stock Market Index change
+Dow Jones Total Stock Market Index change_lag2,-1,Dow Jones Total Stock Market Index change
+Dow Jones Total Stock Market Index change_lag3,-1,Dow Jones Total Stock Market Index change
+Market Volatility Index_lag1,1,Market Volatility Index
+Market Volatility Index_lag2,1,Market Volatility Index
+Market Volatility Index_lag3,1,Market Volatility Index
+Market Volatility Index_lag4,1,Market Volatility Index
+Market Volatility Index change_lag1,1,Market Volatility Index change
+Market Volatility Index change_lag2,1,Market Volatility Index change
+Market Volatility Index change_lag3,1,Market Volatility Index change
+Market Volatility Index change_lag4,1,Market Volatility Index change
+Real GDP growth_ema3,-1,Real GDP growth_ema
+Nominal GDP growth_ema1.75,-1,Nominal GDP growth_ema
+Market Volatility Index_ema4,1,Market Volatility Index_ema
+Market Volatility Index change_ema10,1,Market Volatility Index change_ema
